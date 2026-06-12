@@ -1,4 +1,4 @@
-# Fable 5 — Native Desktop Client for Anthropic's Mythos-Class Model
+# Claude Fable 5 — Native Desktop Client for Anthropic's Mythos-Class Model
 
 **Fable 5 is Anthropic's newest and most capable generally-available model — the first in the Claude 5 family, built on the advanced Mythos-class architecture that sits above Claude Opus.** This repository provides a native desktop client that brings the model's raw computational power out of the web sandbox and directly into your operating system. Optimized for long-horizon tasks, Fable 5 outperforms Claude Opus by 11.2% in complex coding benchmarks and unlocks unprecedented capabilities for deep local infrastructure auditing and cybersecurity. Your projects, prompts, and session history are stored locally on your machine. Free to use through June 22, 2026. One-click signed installer, zero telemetry.
 
